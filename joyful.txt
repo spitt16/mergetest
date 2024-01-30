@@ -1,9 +1,5 @@
 being hahppy regsrdless of circumstances.
 Amen, I agree
 Oh yeah
-<<<<<<< HEAD
-
-this line is for testing
-=======
 this is me
->>>>>>> main
+this line is for testing
